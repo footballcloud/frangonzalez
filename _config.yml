@@ -2,3 +2,7 @@ theme: jekyll-theme-architect
 
 title: Fran Gonzalez
 description: Ningún jugador es tan bueno como todos juntos (Di Stéfano)
+show_downloads: false
+github:
+  is_user_page: false
+  owner_url: https://twitter.com/petedunham88
