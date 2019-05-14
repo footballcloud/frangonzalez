@@ -1,6 +1,6 @@
 # ¿Mis cualidades?
 
-Versatilidad, Talento, Mentalidad potente, Sacrificio, Capacidad de adaptación, equipo antes que la individualidad
+Versatilidad, Talento, Mentalidad potente, Sacrificio, Capacidad de adaptación.
 
 # ¿Donde me puedes encontrar?
 
