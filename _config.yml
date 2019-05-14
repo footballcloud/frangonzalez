@@ -6,3 +6,4 @@ show_downloads: false
 github:
   is_user_page: false
   owner_url: https://twitter.com/petedunham88
+  is_project_page: false
