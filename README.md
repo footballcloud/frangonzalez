@@ -24,6 +24,6 @@ Versatilidad, Talento, Mentalidad potente, Sacrificio, Capacidad de adaptación.
 
 ```
 
-# Support or Contact
+# Contacto
 
-¿Mas cosas? <fran2000gonzalez@hotmail.com>
+<fran2000gonzalez@hotmail.com>
