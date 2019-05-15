@@ -12,15 +12,16 @@ Versatilidad, Talento, Mentalidad potente, Sacrificio, Capacidad de adaptación.
 
 # Inter de Mostoles
 
-- [Etremo derecho - 18/19] (1º Regional)
+- [Extremo - 18/19] (1º Regional)
+- [Mérito] (Ascenso a preferente)
 
 # Mostoles CF
 
-- [Etremo - 17/18](Preferente)
+- [Extremo - 17/18](Preferente)
 
 # CD Griñon
 
-- [Etremo] (1º Regional)
+- [Extremo] (1º Regional)
 
 ```
 
