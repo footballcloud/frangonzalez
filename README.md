@@ -2,7 +2,7 @@
 
 Versatilidad, Talento, Mentalidad potente, Sacrificio, Capacidad de adaptación.
 
-# ¿Donde me puedes encontrar?
+# ¿Dónde me puedes encontrar?
 
 [@petedunham88](https://twitter.com/petedunham88)
 
@@ -15,7 +15,7 @@ Versatilidad, Talento, Mentalidad potente, Sacrificio, Capacidad de adaptación.
 - [Extremo - 18/19] (1º Regional)
 - [Mérito] (Ascenso a preferente)
 
-# Mostoles CF
+# Móstoles CF
 
 - [Extremo - 17/18](Preferente)
 
